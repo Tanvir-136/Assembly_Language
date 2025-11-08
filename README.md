@@ -40,7 +40,7 @@ Add/Subtract 16-bit Numbers: Simple addition and subtraction, including handling
 
 Multiply 16-bit Numbers: Using the MUL instruction to perform 16-bit multiplication.
 
-</css>
+</details>
 
 <details>
 <summary><strong>🔄 4. Number System Conversions</strong></summary>
